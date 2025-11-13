@@ -48,7 +48,7 @@ event-planner/ or (whatever your folder name)
 ├── package.json  ← root dependencies
 
 
-Step 6: Run Your Project
+Step 6: Run Your Project 
 cd event-planner
 pnpm install   # install dependencies
 pnpm dev       # run all apps (web + api)
@@ -59,3 +59,5 @@ pnpm dev       # run all apps (web + api)
 /apps/api → backend (if included)
 
 ✅ That’s it — a full Turborepo monorepo with Next.js frontend ready to go.
+
+AFTER YOU DOWNLOAD THE PROJECT ZIPFILE AND OPEN VS CODE, DO STEP 6!
