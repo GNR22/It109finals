@@ -1,3 +1,13 @@
+IMPORTANT THINGS 
+Framework: ✅ Next.js
+Project structure manager: ✅ Turborepo
+
+Next.js = builds your actual website
+Turborepo = manages apps/packages in the monorepo
+
+
+
+
 Got it 😎 — here’s a straightforward summary of creating your Event Planner Turborepo project:
 
 Step 1: Run the Command
