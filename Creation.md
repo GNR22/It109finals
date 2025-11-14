@@ -1,4 +1,8 @@
 IMPORTANT THINGS 
+| Tool          | What it is                         | Purpose                                                                                                                
+| **Next.js**   | A **web framework** built on React | Used to create websites or web apps (frontend framework).                                                              
+| **Turborepo** | A **monorepo build system**        | Used to **organize and manage multiple projects** (like frontend + backend + shared code) **in one repo** efficiently.
+
 Framework: ✅ Next.js
 Project structure manager: ✅ Turborepo
 
